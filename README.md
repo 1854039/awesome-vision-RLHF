@@ -1,4 +1,4 @@
-# Awesome-Visual-GRPO-RLHF-Alignment
+# Awesome-Visual-Alignment
 
 ---
 
